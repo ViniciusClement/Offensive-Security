@@ -1,5 +1,6 @@
-# Nodes - Kali Linux Certified Professional (KLCP)
+# Kali Linux Certified Professional (KLCP)
 
+# Filesystem Hierarchy Standard
 ```
 /bin/: basic programs.
 /boot/: Kali Linux kernel and other files required for its early boot process.
