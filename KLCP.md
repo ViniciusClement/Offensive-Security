@@ -5,6 +5,12 @@
 /bin/: basic programs.
 /boot/: Kali Linux kernel and other files required for its early boot process.
 /dev/: device files.
+    disk drives   (/dev/sda),
+    partitions    (/dev/sda1),
+    mice          (/dev/input/mouse0),
+    keyboards     (/dev/input/event0),
+    sound cards   (/dev/snd/*),
+    serial ports  (/dev/ttyS*),
 /etc/: configuration files.
 /home/: user's personal files.
 /lib/: basic libraries.
